@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+    <registro id="1">
+        <nombre>luis</nombre>
+        <apellido>marquez</apellido>
+        <edad>23</edad>
+    </registro>
+    <registro id="2">
+        <nombre>guillermo</nombre>
+        <apellido>cañas</apellido>
+        <edad>22</edad>
+    </registro>
+    <registro id="3">
+        <nombre>luis guillermo</nombre>
+        <apellido>marquez cañas</apellido>
+        <edad>24</edad>
+    </registro>
+</lista>
